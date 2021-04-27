@@ -8,7 +8,7 @@ The images used for training are scraped from bing/google image search using the
 
 ![alt text](./Data/preview/cactus_preview.png)
 
-In Data/samplesthere are some new , taken from places other image search, . These were used as unseen photos for testing, like so:
+In Data/samplesthere are some new images, taken from places other than bing/google searches like facebook, instagram or my own cactus. These were used as unseen photos for testing, like below. Accuracy seems great.
 
 ![alt text](./Data/preview/prediction_preview.png)
 
